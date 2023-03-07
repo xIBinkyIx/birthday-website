@@ -1,0 +1,23 @@
+header {
+    background-color: #DC143C;
+    height: 80px;
+    padding: 20px;
+  }
+  
+body {
+	background-color: #DC143C;
+	background-image: linear-gradient(to right bottom, #DC143C, #7393B3);
+}
+
+main {
+	background-color: #7393B3;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 800px;
+    background-color: #7393B3;
+    color: #fff;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px 20px;
+}
